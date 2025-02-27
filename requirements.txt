@@ -1,6 +1,6 @@
 streamlit==1.10.0
 fastapi
-numpy
+numpy 
 pandas==2.2.3
 joblib==1.2.0
 nltk==3.7
